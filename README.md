@@ -50,3 +50,10 @@
 </div>
 
 ###
+
+<div align="center">
+<a href="https://github.com/rajPadval">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajPadval&theme=dark" height="180em" />
+</div>
+
+###
