@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Nodejs, MongoDB, NextJs**
 
-- 📫 How to reach me **rajpadval145@gmail.cm**
+- 📫 How to reach me **rajpadval145@gmail.com**
 
 ###
 
