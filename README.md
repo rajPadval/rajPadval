@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajpadval" alt="rajpadval" /></a> </p>
 
-- 🔭 I’m currently working on [Coder20's Blog](https://github.com/rajPadval/coder29-blog)
+- 🔭 I’m currently working on [Coder29's Blog](https://github.com/rajPadval/coder29-blog)
 
 - 🌱 I’m currently learning **NextJs, Flutter, React Native**
 
