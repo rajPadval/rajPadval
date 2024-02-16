@@ -1,5 +1,19 @@
 <h2 align="left">Hi 👋! My name is Raj Padval and I'm a Full Stack Developer from Mumbai</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpadval&label=Profile%20views&color=0e75b6&style=flat" alt="rajpadval" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajpadval" alt="rajpadval" /></a> </p>
+
+- 🔭 I’m currently working on [Coder20's Blog](https://github.com/rajPadval/coder29-blog)
+
+- 🌱 I’m currently learning **NextJs, Flutter, React Native**
+
+- 👨‍💻 All of my projects are available at [https://raj-portfolio-site.vercel.app/](https://raj-portfolio-site.vercel.app/)
+
+- 💬 Ask me about **React, Nodejs, MongoDB, NextJs**
+
+- 📫 How to reach me **rajpadval145@gmail.cm**
+
 ###
 
 <div align="left">
