@@ -121,8 +121,8 @@
 
 ### 🎨 Frontend
 
-* React.js, Next.js
-* Tailwind CSS
+* React.js, Next.js, Flutter, React Native
+* Tailwind CSS, Material Ui, ShadCN
 
 ---
 
