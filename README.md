@@ -141,7 +141,7 @@
 ## 🌍 Build With Me
 
 * 🎥 YouTube: https://youtube.com/c/coder29
-* 📸 Instagram: https://instagram.com/coder29.yt
+* 📸 Instagram: https://instagram.com/iamrajpadval
 * 💼 LinkedIn: https://linkedin.com/in/rajpadval
 
 ---
