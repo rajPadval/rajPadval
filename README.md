@@ -1,50 +1,161 @@
-<h2 align="left">Hi 👋! My name is Raj Padval and I'm a Full Stack Developer from Mumbai</h2>
+<h1 align="center">⚡ Raj Padval</h1>
+<h3 align="center">🧠 GenAI Engineer × ⚙️ Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpadval&label=Profile%20views&color=0e75b6&style=flat" alt="rajpadval" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajpadval" alt="rajpadval" /></a> </p>
-
-- 🔭 I’m currently working on [Coder29's Blog](https://github.com/rajPadval/coder29-blog)
-
-- 🌱 I’m currently learning **NextJs, Flutter, React Native**
-
-- 👨‍💻 All of my projects are available at [https://raj-portfolio-site.vercel.app/](https://raj-portfolio-site.vercel.app/)
-
-- 💬 Ask me about **React, Nodejs, MongoDB, NextJs**
-
-- 📫 How to reach me **rajpadval145@gmail.com**
-
-###
-
-<div align="left">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-</div>
-
-###
-
-<div align="left">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raj padval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj padval" height="30" width="40" /></a>
-<a href="https://fb.com/raj padval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj padval" height="30" width="40" /></a>
-<a href="https://instagram.com/coder29.yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder29.yt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coder29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder29" height="30" width="40" /></a>
+<p align="center">
+  <b>I build scalable backend systems — and make them intelligent.</b>
 </p>
-</div>
 
-###
+---
 
-<div align="center">
-<a href="https://github.com/rajPadval">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajPadval&theme=dark" height="180em" />
-</div>
+## 🚀 Who Am I
 
-###
+* 🧠 **GenAI Engineer** → RAG, LLMs, Agents, AI Systems
+* ⚙️ **Software Engineer** → Scalable Backends, APIs, Real-Time Systems
+* 🔥 Experience owning **production systems independently**
+* 🎯 Focused on building **AI-powered real-world applications**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpadval&show_icons=true&locale=en&layout=compact" alt="rajpadval" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajpadval&show_icons=true&locale=en" alt="rajpadval" /></p>
+## 🔥 What Makes Me Different
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajpadval&" alt="rajpadval" /></p>
+> Most devs either:
+>
+> * Build apps ❌
+> * Or play with AI ❌
+
+👉 I do both — **in production.**
+
+* Built **RAG pipelines with LangGraph (multi-stage reasoning)**
+* Designed **real-time systems with Socket.IO**
+* Managed **backend infra after senior dev exit**
+* Shipped **high-priority APIs under pressure**
+
+---
+
+## 🚀 Flagship Projects
+
+### 🧾 AnswerMe — Production RAG System
+
+> Not a demo. A real AI pipeline.
+
+* 🧠 5-stage LangGraph pipeline
+  (Query Rewriter → Retriever → Reranker → Grader → Generator)
+* ⚡ Two-stage retrieval (ChromaDB + Cohere reranker)
+* 📊 LLM-as-judge scoring (0.0–1.0 relevance)
+* 🔌 FastAPI + WebSocket streaming
+
+---
+
+### 🧾 Local PDF Chat (MERN + Ollama)
+
+* 📚 90% accurate document Q&A
+* ⚡ MongoDB Atlas Vector Search
+* 🧠 Semantic chunking + embeddings
+
+---
+
+### 🤖 Voxa — AI Agent System
+
+* 🧠 Agentic workflows (LangChain)
+* ⚙️ Dynamic tool usage
+* 🔁 Multi-step task execution
+
+---
+
+### 🧠 CortexNews — AI RAG Pipeline
+
+* 🌐 Live news ingestion → embeddings → retrieval
+* ⚡ End-to-end automated pipeline
+
+---
+
+## ⚙️ Real-World Engineering Experience
+
+### 🏢 Software Developer @ Pivot Money
+
+* Owned backend after senior dev exit
+* Delivered **critical APIs under deadlines**
+* Migrated infra to **KVM-based systems**
+* Fixed legacy production issues (BSE Star MF integration)
+
+---
+
+### 💰 Backend Engineer @ NetWorth Tracker
+
+* Built **financial parsing engine (regex pipelines)**
+* Designed **event-driven systems (Pub/Sub)**
+* Set up **CI/CD pipelines on GCP**
+
+---
+
+### 🚚 Full Stack Engineer @ VRS Translink
+
+* Built backend from scratch
+* Real-time vehicle tracking (Socket.IO)
+* Supported **500+ daily operations**
+
+---
+
+## 🧠 Tech Stack
+
+### 🔥 GenAI
+
+* RAG Pipelines (Advanced)
+* LangChain, LangGraph
+* ChromaDB, Vector Search
+* Ollama, OpenAI, Gemini
+* LLM Evaluation (LLM-as-Judge)
+
+### ⚙️ Backend Engineering
+
+* Node.js, Express.js
+* FastAPI, Flask
+* REST APIs, WebSockets
+* JWT Auth, Event-Driven Systems
+
+### 💻 System Design & Infra
+
+* MongoDB, PostgreSQL
+* Docker, CI/CD, AWS, GCP
+* Pub/Sub Architectures
+
+### 🎨 Frontend
+
+* React.js, Next.js
+* Tailwind CSS
+
+---
+
+## 📊 Proof of Work
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajpadval&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpadval&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Build With Me
+
+* 🎥 YouTube: https://youtube.com/c/coder29
+* 📸 Instagram: https://instagram.com/coder29.yt
+* 💼 LinkedIn: https://linkedin.com/in/rajpadval
+
+---
+
+## 🧠 Current Mission
+
+> Build AI systems that don’t just respond — but **reason, decide, and act.**
+
+---
+
+## ⚡ Philosophy
+
+> Backend without AI is outdated.
+> AI without systems is useless.
+> I build both.
+
+---
